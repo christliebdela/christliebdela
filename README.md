@@ -7,14 +7,14 @@
 
 🚀 Welcome to my GitHub!
 
-I'm passionate about building powerful and elegant digital experiences — from Python tools and fullstack web apps to creative experiments and AI-driven systems. This is where I share my open source work, learnings, and personal projects.
+I'm passionate about building powerful and elegant digital experiences — from Python tools and fullstack web applications to creative experiments and AI-driven systems. This is where I share my open-source projects and experiments.
 
-### 🔗 Find Me Online
+### 🔗 Learn More About Me
 
-- 🌐 [christlieb-dela.vercel.app](https://christlieb-dela.vercel.app)
+Explore my portfolio, projects, and more:
+- 🌐 [Personal Website](https://christlieb-dela.vercel.app)
 - 📂 [GitHub Pages](https://christliebdela.github.io/my_website/)
 
 ---
 
-Thanks for dropping by! 🫶
-
+Thanks for dropping by! Feel free to explore my repositories and connect with me. 🫶
