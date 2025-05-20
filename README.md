@@ -1,9 +1,9 @@
-<h1 align="center">👨‍💻 Christlieb Dela</h1>
-<p align="center">
+<h1 align="left">👨‍💻 Christlieb Dela</h1>
+<p align="left">
   <i>Fullstack Developer · Python Specialist · Creative Engineer</i>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://christlieb-dela.vercel.app" target="_blank">
     🌐 Portfolio
   </a> • 
