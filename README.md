@@ -3,15 +3,6 @@
   <i>Fullstack Developer · Python Specialist · Creative Engineer</i>
 </p>
 
-<p align="left">
-  <a href="https://christlieb-dela.vercel.app" target="_blank">
-    🌐 Portfolio
-  </a> • 
-  <a href="https://christliebdela.github.io/my_website/" target="_blank">
-    📁 GitHub Pages
-  </a>
-</p>
-
 ---
 
 🚀 Welcome to my GitHub!
