@@ -1,4 +1,4 @@
-<h1 align="left">👨‍💻 Christlieb Dela</h1>
+<h1 align="left">👨🏻‍💻 Christlieb Dela</h1>
 <p align="left">
   <i>Fullstack Developer · Python Specialist · Creative Engineer</i>
 </p>
