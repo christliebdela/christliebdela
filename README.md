@@ -12,8 +12,8 @@ I’m a developer who enjoys building useful digital projects. I work with Pytho
 ### 🔗 Learn More About Me
 
 Explore my projects, resume, blogs and more:
-- 🌐 [Personal Website](https://christlieb-dela.vercel.app)
-- 📂 [GitHub Pages](https://christliebdela.github.io/my_website/)
+- 🌐 [Personal Website](https://christlieb-dela.vercel.app.bak)
+- 📂 [GitHub Pages](https://christliebdela.github.io/my_website.bak/)
 
 ---
 
