@@ -7,7 +7,7 @@
 
 🚀 Welcome to my GitHub!
 
-I’m a developer who enjoys building useful digital projects. I work with Python, create fullstack web applications, and explore new technologies and creative tools. Here, I share my open-source work and experiments.
+I build useful digital projects. I work with Python, create fullstack web applications, and explore new technologies and creative tools. Here, I share my open-source work and experiments.
 
 ### 🔗 Learn More About Me
 
