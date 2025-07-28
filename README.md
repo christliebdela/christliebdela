@@ -12,8 +12,8 @@ I build useful digital projects. I work with Python, create fullstack web applic
 ### 🔗 Learn More About Me
 
 Explore my projects, resume, blogs and more:
-- 🌐 [Personal Website](https://christlieb-dela.vercel.app.bak)
-- 📂 [GitHub Pages](https://christliebdela.github.io/my_website.bak/)
+- 🌐 [Personal Website](https://christlieb-dela.vercel.app)
+- 📂 [GitHub Pages](https://christliebdela.github.io/my_website/)
 
 ---
 
